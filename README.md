@@ -1,5 +1,8 @@
 # 📦 AtlasForecast — Forecasting + Inventory-Optimization Decision Engine
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshay-birla-03/atlas-forecast/blob/main/notebooks/Run_in_Colab.ipynb)
+
+
 [![CI](https://github.com/akshay-birla-03/atlas-forecast/actions/workflows/ci.yml/badge.svg)](https://github.com/akshay-birla-03/atlas-forecast/actions)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](#)
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange?logo=scikit-learn&logoColor=white)](#)
